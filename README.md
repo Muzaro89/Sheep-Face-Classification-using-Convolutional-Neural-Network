@@ -8,3 +8,6 @@ Monitoring for sheep species identification and classification in the farming en
 DOI: https://doi.org/10.1109/EIConCIT50028.2021.9431933
 
 I did this work by studying the notebooks done on the kaggle site itself, then proceed to modify the code by applying the resnet50 model and vgg16 model in hopes to achieve better results.
+
+
+dataset used: https://www.kaggle.com/datasets/divyansh22/sheep-breed-classification/data
